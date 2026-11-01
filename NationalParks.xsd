@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-   xmlns="http://url/repo/xml"
-   targetNamespace="http://url/repo/xml"
+   xmlns="https://aarush-murari.github.io/CSE445-XML"
+   targetNamespace="https://aarush-murari.github.io/CSE445-XML"
    elementFormDefault="qualified" attributeFormDefault="unqualified">
 
    <xsd:annotation>
