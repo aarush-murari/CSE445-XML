@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<NationalParks xmlns="http://url/repo/xml"
+<NationalParks xmlns="https://aarush-murari.github.io/CSE445-XML"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://url/repo/xml NationalParks.xsd">
+   xsi:schemaLocation="https://aarush-murari.github.io/CSE445-XML NationalParks.xsd">
 
    <!-- Sample from Assignment PDF -->
    <NationalPark Rating="4.9">
